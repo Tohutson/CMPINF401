@@ -1,0 +1,27 @@
+CMPINF 0401 Assignment Information Sheet
+ 
+Name: Trey Hutson	 Assignment #: Assignment 3
+
+Program Due Date: 11/6/23
+
+Handed in Date: 11/5/23
+
+Source code file name(s):
+
+Assig3.java
+Player.java
+PlayerList.java
+WordFinder.java
+PlayerListTest.java
+MyTimer.java
+Dictionary.java
+dictionary.txt
+players.txt
+
+Does your program compile without error?: Yes
+
+
+Does your program run without error?: Yes
+
+
+Additional comments (including problems and extra credit):

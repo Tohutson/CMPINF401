@@ -1,0 +1,27 @@
+CMPINF 0401 Assignment Information Sheet
+ 
+Name: Trey Hutson	 Assignment #: Assignment 2
+
+Program Due Date: 10/17/23
+
+Handed in Date: 10/16/23
+
+Source code file name(s):
+
+Dictionary.java
+dictionary.txt
+MyTimer.java
+WordFinder.java
+WordFinderTest.java
+Assig2.java
+User.java
+
+Does your program compile without error?: Yes
+
+
+Does your program run without error?: Yes
+
+
+Additional comments (including problems and extra credit):
+
+(Extra credit) Wrote User class to keep file for each user with cumulative statistics

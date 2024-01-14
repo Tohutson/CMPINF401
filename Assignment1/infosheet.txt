@@ -1,0 +1,29 @@
+CMPINF 0401 Assignment Information Sheet
+ 
+Name: Trey Hutson	 Assignment #: Assignment 1
+
+Program Due Date: 9/22/23
+
+Handed in Date: 9/22/23
+
+Source code file name(s):
+
+tutoring.java
+
+
+Does your program compile without error?: Yes
+
+
+Does your program run without error?: Yes
+
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
